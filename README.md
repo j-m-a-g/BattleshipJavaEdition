@@ -15,5 +15,5 @@ After each of your guesses, you'll be presented with a board that updates to ind
 ## ▶️ How to Run
 
 1. Simply FORK and clone the repository onto your local machine or download it as a standalone ZIP file
-2. If you do not have the Java SDK already, download and install it through the [Java Downloads](https://www.oracle.com/java/technologies/downloads) website
+2. If you do not have the Java SDK already, download and install it through the "[Java Downloads](https://www.oracle.com/java/technologies/downloads)" website
 3. Finally, run ```javac BattleshipJavaEdition.java``` and then ```java BattleshipJavaEdition``` in your terminal to launch the game
