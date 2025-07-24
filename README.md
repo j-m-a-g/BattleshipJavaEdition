@@ -8,4 +8,4 @@ Similar to the traditional game, the objective of this version is to successfull
 - Submarine: Length of 3
 - Destroyer: Length of 2
 
-After each of your guesses, you'll be presented with a board that updates to indicate whether you hit or missed a coordinate you enter - with the characters 'X' and '|' respectively.
+After each of your guesses, you'll be presented with a board that updates to indicate whether you hit or missed a coordinate you enter - with the characters "X" and "|" respectively.
