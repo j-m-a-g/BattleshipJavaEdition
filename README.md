@@ -4,7 +4,7 @@ This program is an adaptation of the classic strategy board game, "Battleship" w
 
 ## 📃 Instructions
 
-Similar to the traditional game, the objective of this version is to successfully destroy the opponent's fleet of ships by iteratively guessing their coordinates. Who's your opponent you may ask? The computer, of course! As a result, it'll attempt to hit your boats as well, so be careful! You'll get the chance to choose the starting point and orientation (horizontal or vertical) for each of your boats. The types include:\n" +
+Similar to the traditional game, the objective of this version is to successfully destroy the opponent's fleet of ships by iteratively guessing their coordinates. Who's your opponent you may ask? The computer, of course! As a result, it'll attempt to hit your boats as well, so be careful! You'll get the chance to choose the starting point and orientation (horizontal or vertical) for each of your boats. The types include:
 - Carrier: Length of 5
 - Battleship: Length of 4
 - Submarine: Length of 3
