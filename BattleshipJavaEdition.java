@@ -1,12 +1,3 @@
-/* Joseph Maghamez
-   ICS3UE
-   Sunday, July 20, 2025
-   This program is an adaptation of the classic strategy board
-   game, "Battleship" written in Java, which allows a player to
-   go against the program itself and attempt to destroy its
-   fleet of ships before it does
-*/
-
 import java.util.Scanner; // Imports the Scanner class
 import java.util.Random; // Imports the Random class
 
