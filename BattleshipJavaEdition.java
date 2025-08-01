@@ -8,7 +8,7 @@ public class BattleshipJavaEdition
        options as values within it, iterates through it, and returns
        each of its index values as strings
 
-       Parameters: String Array
+       Parameters: String array
        Returns: String
     */
     public static String displayMenu(String[] arrayForMenu)
